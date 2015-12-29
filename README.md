@@ -5,3 +5,4 @@
 - [Underscore.js](http://underscorejs.org/docs/underscore.html) 
 - [Backbone.js](http://backbonejs.org/docs/backbone.html)
 - [jQuery (1.6)](http://robflaherty.github.io/jquery-annotated-source/)
+- [Conway's Game of Life](http://willbailey.name/conway/docs/conway.html) - Conway's Game of Life in CoffeeScript
